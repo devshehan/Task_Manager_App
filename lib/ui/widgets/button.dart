@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:addo/ui/size_config.dart';
 import 'package:addo/ui/theme.dart';
 
 class MyButton extends StatelessWidget {

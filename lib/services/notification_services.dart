@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:flutter_native_timezone/flutter_native_timezone.dart';
-import 'package:get/get_core/src/get_main.dart';
 import 'package:rxdart/rxdart.dart';
 import 'package:addo/models/task.dart';
 import 'package:addo/ui/theme.dart';

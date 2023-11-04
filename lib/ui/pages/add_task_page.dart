@@ -7,7 +7,6 @@ import 'package:addo/ui/theme.dart';
 import 'package:addo/ui/widgets/button.dart';
 import 'package:addo/ui/widgets/input_field.dart';
 import 'package:intl/intl.dart';
-import 'package:flutter/cupertino.dart';
 
 class AddTaskPage extends StatefulWidget {
   @override
