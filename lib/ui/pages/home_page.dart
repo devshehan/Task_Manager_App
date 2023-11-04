@@ -7,15 +7,15 @@ import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:orbit/controllers/task_controller.dart';
-import 'package:orbit/models/task.dart';
-import 'package:orbit/services/notification_services.dart';
-import 'package:orbit/ui/pages/add_task_page.dart';
-import 'package:orbit/ui/size_config.dart';
-import 'package:orbit/ui/theme.dart';
-import 'package:orbit/ui/widgets/button.dart';
+import 'package:addo/controllers/task_controller.dart';
+import 'package:addo/models/task.dart';
+import 'package:addo/services/notification_services.dart';
+import 'package:addo/ui/pages/add_task_page.dart';
+import 'package:addo/ui/size_config.dart';
+import 'package:addo/ui/theme.dart';
+import 'package:addo/ui/widgets/button.dart';
 import 'package:intl/intl.dart';
-import 'package:orbit/ui/widgets/task_tile.dart';
+import 'package:addo/ui/widgets/task_tile.dart';
 
 import '../../services/theme_services.dart';
 

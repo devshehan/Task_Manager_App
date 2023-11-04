@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:orbit/db/db_helper.dart';
-import 'package:orbit/models/task.dart';
+import 'package:addo/db/db_helper.dart';
+import 'package:addo/models/task.dart';
 
 class TaskController extends GetxController {
   //this will hold the data and update the ui

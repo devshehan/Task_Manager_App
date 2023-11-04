@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:orbit/db/db_helper.dart';
-import 'package:orbit/services/theme_services.dart';
-import 'package:orbit/ui/pages/home_page.dart';
-import 'package:orbit/ui/theme.dart';
+import 'package:addo/db/db_helper.dart';
+import 'package:addo/services/theme_services.dart';
+import 'package:addo/ui/pages/home_page.dart';
+import 'package:addo/ui/theme.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

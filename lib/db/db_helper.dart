@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:sqflite/sqflite.dart';
-import 'package:orbit/models/task.dart';
+import 'package:addo/models/task.dart';
 
 class DBHelper {
   static Database? _db;

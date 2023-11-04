@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:google_fonts/google_fonts.dart';
-import 'package:orbit/models/task.dart';
-import 'package:orbit/ui/size_config.dart';
-import 'package:orbit/ui/theme.dart';
+import 'package:addo/models/task.dart';
+import 'package:addo/ui/size_config.dart';
+import 'package:addo/ui/theme.dart';
 import 'package:intl/intl.dart';
 
 class TaskTile extends StatelessWidget {
